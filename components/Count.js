@@ -35,8 +35,8 @@ const Count = props => {
 
   return (
 <div  className='box-border hover:scale-105 ease-in duration-400 h-32 p-4 m-3 rounded-full shadow-xl shadow-[0px_22px_70px_4px_rgba(0,0,0,0.56)] shadow-cyan-300/70 hover:bg-blue-800 w-60'>
-                    <h1 className='m-2 text-4xl text-white'>{count}+</h1>
-                    <p className='text-2xl text-white'>{label}</p>
+                    <h1 className='m-2 text-4xl text-black'>{count}+</h1>
+                    <p className='text-2xl text-balck'>{label}</p>
                 </div>
    
   );
