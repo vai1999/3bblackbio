@@ -19,7 +19,7 @@ function Banner() {
         <div className='justify-between text-left'>
 
           <h1 className='space-x-3 text-gray-700 md:text-4xl'>
-            <span className='font-extrabold text-blue-800 font-Trocchi '> MSME</span> <span className='font-serif font-extrabold text-black'>Award - 2018</span>
+            <span className='font-extrabold text-blue-800 font-Trocchi pl-4'> MSME</span> <span className='font-serif font-extrabold text-black'>Award - 2018</span>
           </h1>
           <div className="text-left">
 
