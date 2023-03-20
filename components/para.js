@@ -2,10 +2,10 @@ import React from 'react'
 
 const Para = () => {
   return (
-    <div className='w-full m-auto bg-gray-600 '>
-        <div className='max-w-[1240px] w-full h-full  mx-auto p-2    items-center'>
+    <div className='w-full m-auto  '>
+        <div className='max-w-[1240px] w-full h-full mx-auto p-2    items-center'>
 
-        <div className='items-center justify-center w-full h-auto p-4 m-auto mt-8 duration-300 ease-in bg-white shadow-md shadow-gray-400 rounded-xl hover:scale-105'>
+        <div className='items-center justify-center  w-full h-auto p-4 m-auto mt-8 duration-300 ease-in bg-white shadow-md shadow-gray-400 rounded-xl hover:scale-105'>
         <h1 className='text-blue-600 '>PRECISE & ACCURATE</h1>
         <p>TRUPCR® offers highly sensitive & specific qPCR assays as indicated by minimum variability of replicates and highly reproducible results.</p>
         </div>
