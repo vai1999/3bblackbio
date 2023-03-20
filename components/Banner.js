@@ -30,7 +30,7 @@ function Banner() {
           by Hon&apos;ble President of India, Shri Ram Nath Kovind. <br />
           </p>
           </div>
-          <div className="pt-3 pl-28 ">
+          <div className="pt-3 pl-28 pb-5 ">
           <button className="p-3 mt-5 font-serif text-white bg-blue-800 h-25 w-36 rounded-3xl hover:bg-blue-700 ">Read More</button>
          </div>
         </div>
