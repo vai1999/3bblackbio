@@ -1,0 +1,28 @@
+{
+    "counts": [
+        {
+            "id": "001",
+            "label": "Costemers",
+            "number": "800",
+            "duration": "5"
+        },
+        {
+            "id": "002",
+            "label": "Products",
+            "number": "120",
+            "duration": "5"
+        },
+        {
+            "id": "003",
+            "label": "Distrubuters",
+            "number": "50",
+            "duration": "5"
+        },
+        {
+            "id": "004",
+            "label": "Counteries",
+            "number": "20",
+            "duration": "5"
+        }
+    ]
+}
