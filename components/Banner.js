@@ -23,7 +23,7 @@ function Banner() {
           </h1>
           <div className="text-left">
 
-          <p className=' text-center font-serif indent-4  md:font-black mt-5  sm:max-w-[70%] '>
+          <p className=' text-center font-serif indent-4 font-semibold  md:font-black mt-5  sm:max-w-[70%] '>
           3B BlackBio Biotech India Ltd. <br />
           A subsidiary of Kilpest India Limited <br />
           is awarded National<br /> MSME Award- 2018 
